@@ -1,0 +1,4 @@
+issues:
+- type: "OMN-FLOATING_PRAGMA"
+  bytecode_offset: 
+  src_location: 1
